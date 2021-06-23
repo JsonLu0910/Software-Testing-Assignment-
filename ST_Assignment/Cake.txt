@@ -1,0 +1,61 @@
+A1,Butter cake,cake,46.0,46.8,true
+A2,Marble cake,cake,76.5,77.2,true
+A3,Chocolate Indulgence,cake,98.0,105.0,true
+A4,Tiramisu Cake,cake,98.0,105.0,true
+A5,Oreo Cheese,cake,98.0,105.0,true
+A6,Black Forest,cake,130.0,135.0,true
+A7,Carrot Cake,cake,70.0,75.0,true
+A8,Chocolate Cake,cake,85.0,90.0,true
+P1,Absolute Durian,cake,135.0,140.0,false
+P2,Salted Caramel Macadamia Cheese,cake,180.0,185.0,false
+P3,White Chocolate Cake,cake,95.0,98.0,false
+B2,Apple pie (3 pieces),pastry,9.3,9.9,true
+B3,Cinnamon Roll (2 pieces),pastry,8.2,8.7,true
+B4,Croissant,pastry,4.2,4.5,true
+B5,Macaron (5 pieces),pastry,15.0,15.5,true
+B6,Pretzel (2 pieces),pastry,13.0,13.6,true
+P4,Pineapple tart (1 container),pastry,39.0,42.0,false
+P5,Spring roll (1 container),pastry,30.0,32.0,false
+jacklien5588,Jack Lien,nnn222,12334455,true,MELAKA,JONKER,75000,ALOR GAJAH,5,10
+john2231,John Tan,hjk234,16678455,true,MELAKA,JONKER,75040,ASAHAN,55,15
+janeL123,Jane Liew,lmn555,1222955,true,MELAKA,JONKER,75000,ALOR GAJAH,25,17
+josh991,Josh Lee,ccc556,1237765,true,MELAKA,JONKER,75350,AYER KEROH,45,8
+nickY888,Nick Young,nkn231,12554455,true,MELAKA,JONKER,76100,DURIAN TUNGGAL,5,20
+jason0910,Jason Lu,abc123,12334455,true,MELAKA,JONKER,78100,LUBOK CHINA,50,15
+jason0910|A7,Jason Lu,true,Maybank
+jason0910|A7,Jason Lu,Carrot Cake,10,704.0,State: MELAKA- Area: Asahan- District: n- Postal Code: 987543- Street No.:12345- Unit:123,true
+jason0910|B5,Jason Lu,true,Credit Card
+jason0910|B5,Jason Lu,Macaron (5 pieces),100,1504.0,State: MELAKA- Area: Asahan- District: n- Postal Code: 987123- Street No.:1234- Unit:12,true
+jason0910|P3,JASON LU,true,Credit Card
+jason0910|P3,JASON LU,Carraot Cake,10,708.0,State: MELAKA- Area: Asahan- District: n- Postal Code: 1234- Street No.:12- Unit:10,true
+jason0910|P3,JASON LU,true,Hong Leong Bank
+jason0910|P3,JASON LU,Carraot Cake,10,709.0,State: MELAKA- Area: Ayer Keroh- District: n- Postal Code: 9987654321- Street No.:12- Unit:1,true
+jason0910|B3,Jason Lu,true,Credit Card
+jason0910|B3,Jason Lu,Cinnamon Roll (2 pieces),100,822.4999999999999,State: MELAKA- Area: Masjid Tanah- District: IDUN KNOW- Postal Code: 42700- Street No.:10- Unit:1,true
+jason0910|B6,Jason Lu,true,Credit Card
+jason0910|B6,Jason Lu,Pretzel (2 pieces),10,133.5,State: MELAKA- Area: Bukit Beruang- District: n- Postal Code: 123456- Street No.:1234- Unit:12,true
+jason0910|B5,Jason Lu,true,Maybank
+jason0910|B5,Jason Lu,Macaron (5 pieces),100,1504.0,State: MELAKA- Area: Asahan- District: n- Postal Code: 123765- Street No.:123- Unit:1,true
+jason0910|B5,Jason Lu,true,Maybank
+jason0910|B5,Jason Lu,Macaron (5 pieces),10,154.0,State: MELAKA- Area: Asahan- District: n- Postal Code: 123145- Street No.:123- Unit:1,true
+jason0910|B5,Jason Lu,true,Maybank
+jason0910|B5,Jason Lu,Macaron (5 pieces),10,154.0,State: MELAKA- Area: Asahan- District: n- Postal Code: 1234- Street No.:123- Unit:1,true
+jason0910|A5,Jason Lu,true,Hong Leong Bank
+jason0910|A5,Jason Lu,Oreo Cheese,10,984.0,State: MELAKA- Area: Asahan- District: n- Postal Code: 312314- Street No.:12- Unit:1,true
+jason0910|A7,Jason Lu,true,Hong Leong Bank
+jason0910|A7,Jason Lu,Carrot Cake,10,704.0,State: MELAKA- Area: Asahan- District: n- Postal Code: 1234- Street No.:123- Unit:1,true
+jason0910|A5,Jason Lu,true,Credit Card
+jason0910|A5,Jason Lu,Oreo Cheese,10,984.0,State: MELAKA- Area: Asahan- District: n- Postal Code: 812313- Street No.:88- Unit:1,true
+jason0910|A4,Jason Lu,true,Maybank
+jason0910|A4,Jason Lu,Tiramisu Cake,10,984.0,State: MELAKA- Area: Asahan- District: n- Postal Code: 123131- Street No.:12313- Unit:12,true
+jason0910|B5,Jason Lu,true,Maybank
+jason0910|B5,Jason Lu,Macaron (5 pieces),1,22.0,State: MELAKA- Area: Asahan- District: n- Postal Code: 123131- Street No.:1231314- Unit:1123,true
+JACKY TAN|B2,JACKY TAN,true,Public Bank
+JACKY TAN|B2,JACKY TAN,Apple pie (3 pieces),1,12.9,State: MELAKA- Area: Asahan- District: n- Postal Code: 1123918- Street No.:98- Unit:1,true
+JASOCK JADA|A5|2144,JASOCK JADA,true,Credit Card
+JASOCK JADA|A5|2144,JASOCK JADA,Oreo Cheese,1,105.0,State: MELAKA- Area: Asahan- District: n- Postal Code: 123145- Street No.:12314- Unit:12,true
+AE@23|john2231|B5,john2231,false,NONE
+AE@23|john2231|B5,john2231,Macaron (5 pieces),10,154.0,State: MELAKA- Area: Asahan- District: n- Postal Code: 12345- Street No.:123- Unit:1,false
+AE@13|josh991|B2,josh991,true,Credit Card
+AE@13|josh991|B2,josh991,Apple pie (3 pieces),10,97.0,State: MELAKA- Area: Asahan- District: n- Postal Code: 1234- Street No.:123- Unit:1,true
+koop123,JOY LU,jl123,193868601,true,MELAKA,n,1234,Asahan,123,12
